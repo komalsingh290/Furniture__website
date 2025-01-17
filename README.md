@@ -1,2 +1,2 @@
 # Furniture__website
-http://furniture.in/
+http://furniture.com/
